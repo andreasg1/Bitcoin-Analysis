@@ -1,6 +1,5 @@
 # Bitcoin-Analysis
 Big Data Processing coursework.
-
 Using Hadoop map/reduce jobs and PySpark
 
 1st part:
